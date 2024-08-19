@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yosef73
 - 👀 I’m interested in ... web dev, software dev, and a tiny bit of game dev.
-- 🌱 I’m currently learning ... hardware and operating systems as part of the BS SWE at WGU.
+- 🌱 I’m currently learning ... JavaScript programming as part of the BS SWE at WGU.
 - 💞️ I’m looking to collaborate on ... basic apps.
 - 📫 How to reach me ... discord at Joxef#1654.
 
