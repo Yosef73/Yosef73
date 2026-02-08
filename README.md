@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yosef73
 - 👀 I’m interested in ... web dev, software dev, and a tiny bit of game dev.
-- 🌱 I’m currently learning ... software QA via the SWE major at WGU.
+- 🌱 I’m currently learning ... software QA as an SWE major at WGU.
 - 💞️ I’m looking to collaborate on ... basic apps/sites.
 - 📫 How to reach me ... discord at Joxef#1654.
 
